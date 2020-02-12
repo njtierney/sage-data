@@ -9,7 +9,7 @@ Data makes science possible. Sharing data improves visibility, and makes the res
 
 This talk is framed as a discussion, and it covers some of pain points of sharing data alongside research. The talk will be framed as a discussion. One of the key messages we are trying to impart is sharing data falls on a continuum, and entering it should come with minimal barriers.
 
-# Slide available [here](https://njt-numbat-data.netlify.com/)
+# Slide available [here](https://njt-sage.netlify.com/#1)
 
 # Working paper available [here](https://github.com/karthik/ddd)
 
